@@ -5,9 +5,9 @@ account: bbwieland
 server: shinyapps.io
 hostUrl: https://api.shinyapps.io/v1
 appId: 5740578
-bundleId: 5621667
+bundleId: 5622942
 url: https://bbwieland.shinyapps.io/DraftVisualization/
-when: 1645925277.52844
-lastSyncTime: 1645925277.52845
+when: 1645981104.15394
+lastSyncTime: 1645981104.15396
 asMultiple: FALSE
 asStatic: FALSE
