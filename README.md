@@ -1,3 +1,5 @@
+# Visualizing how Colleges Perform in the NBA
+
 I have written a [Shiny web app](https://bbwieland.shinyapps.io/DraftVisualization/) for exploring the data included here on every NBA draft selection dating back to 1990. It contains tools for viewing all NBA players drafted from a specific college, comparing two different colleges to one another by various statistics, or creating leaderboards for various NBA total statistics. 
 
 Some sample questions that can be answered by the app in just a few clicks:
