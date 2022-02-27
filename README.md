@@ -18,4 +18,4 @@ Some sample questions that can be answered by the app in just a few clicks:
 
 It can be accessed at the following link: https://bbwieland.shinyapps.io/DraftVisualization/
 
-**A note on the data: it was scraped at the beginning of the 2022 calendar year and does not live-update. When I re-scrape the CSV and update the data — probably at the beginning and end of each NBA season — I will post updates here on the recency of the data.**
+*A note on the data: it was scraped at the beginning of the 2022 calendar year and does not live-update. When I re-scrape the CSV and update the data — probably at the beginning and end of each NBA season — I will post updates here on the recency of the data.*
